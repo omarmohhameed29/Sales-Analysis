@@ -11,6 +11,9 @@ The key objectives of this project are as follows:
 1. Sales Performance Analysis: Evaluate sales performance based on different dimensions, such as time, products, and customers. Identify top-selling products and customers, as well as patterns and trends in sales.
 2. Revenue Analysis: Analyze revenue generation and identify the most profitable products, customers, and sales regions.
 3. Sales Dashboard: Create an interactive Power BI dashboard to visualize the analysis results and make it easier to interpret and share insights.
+
+ ![Dashboard Image](Sales%20Analysis%20Dashboard.jpeg)
+
 ## Tools Used
 <ul>
   
